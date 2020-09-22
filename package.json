@@ -1,8 +1,11 @@
 {
   "name": "js-pacman",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pacman game built in javascript",
   "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
