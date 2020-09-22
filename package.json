@@ -2,7 +2,7 @@
   "name": "js-pacman",
   "version": "1.0.0",
   "description": "Pacman game built in javascript",
-  "main": "index.js",
+  "main": "index.html",
   "engines": {
     "node": "14.x"
   },
